@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net" modified="2023-12-04T15:57:48.514Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Is8-VzsyNYmfk0lueCbj" version="22.1.5" type="github">
+  <diagram name="Page-1" id="GqMe5IKwgSELxypUzMZh">
+    <mxGraphModel dx="1434" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ASt7xTBD_s-C5iCYfaOv-1" target="ASt7xTBD_s-C5iCYfaOv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-1" value="&lt;b&gt;Ruby Splunk&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ASt7xTBD_s-C5iCYfaOv-2" target="ASt7xTBD_s-C5iCYfaOv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-2" value="&lt;b&gt;Ruby SFDC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ASt7xTBD_s-C5iCYfaOv-4" target="ASt7xTBD_s-C5iCYfaOv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ASt7xTBD_s-C5iCYfaOv-4" target="ASt7xTBD_s-C5iCYfaOv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-4" value="&lt;b&gt;S3 goodcommunity&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="312" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ASt7xTBD_s-C5iCYfaOv-7" target="ASt7xTBD_s-C5iCYfaOv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-7" value="&lt;b&gt;EC2 Metadata&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ASt7xTBD_s-C5iCYfaOv-10" target="ASt7xTBD_s-C5iCYfaOv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-10" value="&lt;b&gt;EC2 Matomo&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ASt7xTBD_s-C5iCYfaOv-12" target="ASt7xTBD_s-C5iCYfaOv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-12" value="&lt;b&gt;Redshift&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-15" value="&lt;b&gt;Snowflake&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-17" value="redshift integrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="90" width="111" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-18" value="Gitlab CI/CD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="506" y="237" width="85" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ASt7xTBD_s-C5iCYfaOv-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Gitlab CI/CD - tap_s3_csv&lt;br&gt;S3_CSV_INPUT_STAGE&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="157" width="169" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
